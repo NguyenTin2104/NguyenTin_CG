@@ -1,5 +1,4 @@
-﻿using System;
-namespace L3{
+﻿namespace L3{
     class Program{
         const float VND = 23000; 
         static void Main(){
